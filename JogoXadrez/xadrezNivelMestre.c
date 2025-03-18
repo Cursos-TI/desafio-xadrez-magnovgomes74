@@ -85,6 +85,8 @@ int main() {
     
     moverCavalo();
 
+
+    
     printf("\n\n");
     
     return 0;
