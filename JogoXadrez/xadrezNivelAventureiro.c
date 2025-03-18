@@ -1,4 +1,7 @@
 #include <stdio.h>
+
+// Desafio de Xadrez - MateCheck
+
 int main() {
     // Nível Aventureiro - Movimentação das Peças
     // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
@@ -63,7 +66,6 @@ int main() {
     }
 
     printf("\n\n");
-
 
     return 0;
 }
